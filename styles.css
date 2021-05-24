@@ -13,6 +13,12 @@ body {
     font-family: Quantico_Italics;
     src: url(Quantico-Italic.ttf);
 }
+.text{
+    text-align: left;
+    margin: 1vh auto;
+    max-width: 1000px;
+}
+
 h1 {
     font-family: Quantico;
     color: white; 
@@ -28,11 +34,12 @@ p {
     color: white; 
     font-size: 40;
 }
-.center{
+
+.image{
     text-align: center;
 }
-.text{
-    text-align: center;
-    margin: 1vh auto;
-    max-width: 1000px;
+
+.column{
+    float: left;
+    width: 50%;
 }
