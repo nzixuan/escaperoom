@@ -1,52 +1,52 @@
 <!DOCTYPE html>
 <html>
-    <head>
-        <title>
-            Main Level 2.1.1
-        </title>
-        <meta charset="UTF-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="styles.css">
-    </head>
-    <body>
-        <div class="text">
-            <h1>
-                Mission 1
-            </h1>
-            <h1>
-                Objective: Break In
-            </h1>
-            <p>
-                ___________________________________________________________________________
-            </p>
-            <p>
-                You begin the heist on the outside COM1 of SOC. The professors office was deep 
-                within the recesses of COM1 basement. 
-            <p>
-            <p>
-                You take one futher look at the map that you had prepared before entering 
-                the school proper... 
-            </p>
+  <head>
+    <title>Main Level 2.1.1</title>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="text">
+      <h1>Mission 1</h1>
+      <h1>Objective: Break In</h1>
+      <p>
+        ___________________________________________________________________________
+      </p>
+      <p>
+        You begin the heist on the outside COM1 of SOC. The professors office
+        was deep within the recesses of COM1 basement.
+      </p>
+
+      <p></p>
+      <p>
+        You take one futher look at the map that you had prepared before
+        entering the school proper...
+      </p>
+    </div>
+    <div class="image">
+      <div class="row">
+        <div class="column">
+          <img src="images/COM1_L1 1.png" alt="placeholder image" />
         </div>
-        <div class="image">
-            <div class="row">
-                <div class="column">
-                    <img src="images/COM1_L1 1.png"
-                     alt="placeholder image">
-                </div>
-                <div class="column">
-                    <img src="images/COM1_Basement 1.png"
-                     alt="placeholder image">
-                </div>
-                <img src="images/SoC_FrontEntrance1.png" onclick="location.href='entrance.html';"
-                 alt="placeholder image" />
-            </div>
+        <div class="column">
+          <img src="images/COM1_Basement 1.png" alt="placeholder image" />
         </div>
-        <div class="text">
-            <p style="font-family: Quantico_Italics;">
-                Hint: Enter the school!
-            </p>
-        </div>
-    </body>
+        <img
+          src="images/SoC_FrontEntrance1.png"
+          alt="placeholder image"
+          usemap="#map"
+          width="1000"
+          height="500"
+        />
+        <map name="map">
+          <area shape="rect" coords="440,300,720,450" href="entrance.html" />
+        </map>
+      </div>
+    </div>
+    <div class="text">
+      <p style="font-family: Quantico_Italics">Hint: Enter the school!</p>
+    </div>
+  </body>
 </html>
