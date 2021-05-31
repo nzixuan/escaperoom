@@ -45,3 +45,34 @@ p {
   float: left;
   width: 50%;
 }
+
+.title{
+  padding-left: 50px;
+}
+
+.containerRedArrow{
+  width: 100%;
+  height: auto;
+  display: flex;
+  flex-direction: row;
+}
+
+.redArrow{
+  width: 100%;
+  height: 100%;
+}
+
+.redArrowLink{
+  width: 25%;
+  height: 100%;
+}
+
+.textRedArrow{
+  padding-left: 50px;
+  margin: 8px 0px;
+}
+
+#containerRedArrow{
+  padding-bottom: 50px;
+}
+
