@@ -76,3 +76,16 @@ p {
   padding-bottom: 50px;
 }
 
+.textBody{
+  padding-bottom: 50px;
+}
+
+.door{
+  text-align: center;
+}
+
+.stack-overflow{
+  text-align: center;
+  margin-top: 50px;
+}
+
