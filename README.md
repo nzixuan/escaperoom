@@ -16,10 +16,10 @@ Level 8: answer=straits-settlements-and-federated-malay-states-government-medica
 <br />
 4. Finding Prof's Room <br />
 Level 9: answer=897366.html <br />
-Level 10: TODO <br />
+Level 10: answer=3094.html <br />
 <br />
 5. 2FA Authentication to Prof's Com <br />
-Level 11: answer=3094 <br />
+Level 11: findstheshortestpath.html <br />
 Level 12: answer=roygbp.html <br />
 <br />
 6. Finding Paper Date <br />
