@@ -8,19 +8,19 @@ Level 4: 1905.html (Hint page: 15.html) <br />
 <br />
 Getting into Room <br />
 Level 5: fifteen.html (Extra Pages: entrance.html; p=np.html;) <br />
-Level 6: TODO <br />
+Level 6: answer=false.html <br />
 <br />
 Room Password <br />
-Level 7: TODO <br />
-Level 8: TODO <br />
+Level 7: answer=true.html <br />
+Level 8: answer=straits-settlements-and-federated-malay-states-government-medical-school.html <br />
 <br />
 Finding Prof's Room <br />
-Level 9: TODO <br />
+Level 9: answer=897366.html <br />
 Level 10: TODO <br />
 <br />
 2FA Authentication to Prof's Com <br />
-Level 11: TODO <br />
-Level 12: TODO <br />
+Level 11: answer=3094 <br />
+Level 12: answer=roygbp.html <br />
 <br />
 Finding Paper Date <br />
 Level 13: answer=STOPIT.html //NEEDS WORK s<br />
