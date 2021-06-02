@@ -16,7 +16,7 @@ Level 8: TODO <br />
 <br />
 Finding Prof's Room <br />
 Level 9: TODO <br />
-Level 10: next.html **NAME TO DETERMINE** <br />
+Level 10: TODO <br />
 <br />
 2FA Authentication to Prof's Com <br />
 Level 11: TODO <br />
@@ -26,7 +26,7 @@ Finding Paper Date <br />
 Level 13: andanotherone.html <br />
 <br />
 Almost getting caught <br />
-Level 14: <br /> 
+Level 14: IntroducingSoC.html <br /> 
 <br /> 
 Finale <br />
 Level 15: <br />
