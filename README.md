@@ -23,10 +23,10 @@ Level 11: TODO <br />
 Level 12: TODO <br />
 <br />
 Finding Paper Date <br />
-Level 13: answer=STOPIT.html <br />
+Level 13: answer=STOPIT.html //NEEDS WORK s<br />
 <br />
 Almost getting caught <br />
-Level 14: IntroducingSoC.html <br /> 
+Level 14: IntroducingSoCHello.html (NAME might change) <br /> 
 <br /> 
 Finale <br />
 Level 15: <br />
