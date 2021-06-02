@@ -6,7 +6,6 @@ Level 2: ae.html <br />
 Level 3: iou.html <br />
 Level 4: 1905.html (Hint page: 15.html) <br />
 <br />
-Mission Starts
 2. Getting into Room <br />
 Level 5: fifteen.html (Extra Pages: entrance.html; p=np.html;) <br />
 Level 6: answer=false.html <br />
