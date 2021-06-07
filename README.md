@@ -24,7 +24,7 @@ Level 11: findstheshortestpath.html <br />
 Level 12: answer=roygbp.html <br />
 <br />
 6. Finding Paper Date <br />
-Level 13: answer=STOPIT.html //NEEDS WORK s<br />
+Level 13: answer=STOPIT.html //Im gonna keep it starting from first post and just update it if more post come out cause the more recent posts are more relavent <br />
 <br />
 7. Almost getting caught <br />
 Level 14: IntroducingSoCHello.html (NAME might change) <br /> 
