@@ -1,7 +1,8 @@
 # escaperoom.github.io
+
 <br />
 1. Tutorial Stages <br />
-Level 1: Welcome.html <br />
+Level 1: index.html <br />
 Level 2: ae.html <br />
 Level 3: iou.html <br />
 Level 4: 1905.html (Hint page: 15.html) <br />
@@ -23,14 +24,12 @@ Level 11: findstheshortestpath.html <br />
 Level 12: answer=roygbp.html <br />
 <br />
 6. Finding Paper Date <br />
-Level 13: answer=STOPIT.html //NEEDS WORK s<br />
+Level 13: answer=STOPIT.html //Im gonna keep it starting from first post and just update it if more post come out cause the more recent posts are more relavent <br />
 <br />
 7. Almost getting caught <br />
 Level 14: IntroducingSoCHello.html (NAME might change) <br /> 
 <br /> 
 8. Finale <br />
-Level 15: <br />
-Level 16: <br />
+Level 15: dmitri-shostakovich.html(Extra Pages: password=___.html; locked.html;)<br />
 <br />
 Ending: password=p=np.html <br />
-
