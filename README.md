@@ -2,7 +2,7 @@
 
 <br />
 1. Tutorial Stages <br />
-Level 1: Welcome.html <br />
+Level 1: index.html <br />
 Level 2: ae.html <br />
 Level 3: iou.html <br />
 Level 4: 1905.html (Hint page: 15.html) <br />
