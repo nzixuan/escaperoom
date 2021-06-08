@@ -24,10 +24,10 @@ Level 11: findstheshortestpath.html <br />
 Level 12: answer=roygbp.html <br />
 <br />
 6. Finding Paper Date <br />
-Level 13: answer=STOPIT.html //Im gonna keep it starting from first post and just update it if more post come out cause the more recent posts are more relavent <br />
+Level 13: answer=STOPIT.html  <br />
 <br />
 7. Almost getting caught <br />
-Level 14: IntroducingSoCHello.html (NAME might change) <br /> 
+Level 14: Hitthee-storetowin.html (NAME might change) <br /> 
 <br /> 
 8. Finale <br />
 Level 15: dmitri-shostakovich.html(Extra Pages: password=___.html; locked.html;)<br />
