@@ -16,18 +16,18 @@ Level 7: answer=true.html <br />
 Level 8: answer=straits-settlements-and-federated-malay-states-government-medical-school.html <br />
 <br />
 4. Finding Prof's Room <br />
-Level 9: answer=897366.html <br />
-Level 10: answer=3094.html <br />
+Level 9: 897366.html <br />
+Level 10: 3094.html <br />
 <br />
 5. 2FA Authentication to Prof's Com <br />
-Level 11: findstheshortestpath.html <br />
+Level 11: 37.html <br />
 Level 12: answer=roygbp.html <br />
 <br />
 6. Finding Paper Date <br />
 Level 13: answer=STOPIT.html  <br />
 <br />
 7. Almost getting caught <br />
-Level 14: Hitthee-storetowin.html (NAME might change) <br /> 
+Level 14: hitthee-storetowin.html (NAME might change) <br /> 
 <br /> 
 8. Finale <br />
 Level 15: dmitri-shostakovich.html(Extra Pages: password=___.html; locked.html;)<br />
